@@ -2,7 +2,7 @@
     "name": "gitbook-plugin-exercises-tmp-fixed-6",
     "description": "Interactive exercices in a gitbook (forked version including #11 which fixes #6, not actively maintained)",
     "main": "index.js",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "gitbook": ">1.x.x"
     },
