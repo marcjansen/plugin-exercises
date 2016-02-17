@@ -1,8 +1,8 @@
 {
-    "name": "gitbook-plugin-exercises",
-    "description": "Interactive exercices in a gitbook",
+    "name": "gitbook-plugin-exercises-tmp-fixed-6",
+    "description": "Interactive exercices in a gitbook (forked version including #11 which fixes #6, not actively maintained)",
     "main": "index.js",
-    "version": "2.0.0-alpha.3",
+    "version": "0.0.1",
     "engines": {
         "gitbook": ">1.x.x"
     },
@@ -14,10 +14,10 @@
     "homepage": "https://github.com/GitbookIO/plugin-exercises",
     "repository": {
         "type": "git",
-        "url": "https://github.com/GitbookIO/plugin-exercises.git"
+        "url": "https://github.com/marcjansen/plugin-exercises.git"
     },
     "license": "Apache 2",
     "bugs": {
-        "url": "https://github.com/GitbookIO/plugin-exercises/issues"
+        "url": "https://github.com/marcjansen/plugin-exercises/issues"
     }
 }

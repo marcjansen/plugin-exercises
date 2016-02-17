@@ -1,3 +1,21 @@
+A note about this fork
+==============
+
+This fork is essentially the same as https://github.com/GitbookIO/plugin-exercises with the changes of [PR 11](https://github.com/GitbookIO/plugin-exercises/pull/11) included to fix [issue 6](https://github.com/GitbookIO/plugin-exercises/issues/6).
+
+This repo isn't actively maintained and will hopefully become obsolete once an official fix exists for [issue 6](https://github.com/GitbookIO/plugin-exercises/issues/6).
+
+To use this temporary plugin in your gitbook, specify:
+
+```
+{
+    "plugins": ["exercises-tmp-fixed-6"]
+}
+```
+
+Below is the original `README.md`.
+
+
 Interactive exercises in a gitbook
 ==============
 
