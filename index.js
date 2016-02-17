@@ -21,7 +21,7 @@ module.exports = {
         ],
         html: {
             "body:start": function(options) {
-                return '<script src="'+options.staticBase+'/plugins/gitbook-plugin-exercises/jsrepl/jsrepl.js" id="jsrepl-script"></script>';
+                return '<script src="'+options.staticBase+'/plugins/gitbook-plugin-exercises-tmp-fixed-6/jsrepl/jsrepl.js" id="jsrepl-script"></script>';
             }
         }
     },
