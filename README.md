@@ -1,3 +1,9 @@
+Deprecated/obsolete: You should no longer need to use this fork
+==============
+
+As [issue 6](https://github.com/GitbookIO/plugin-exercises/issues/6) has been resolved in the upstream repo, this temporary fork can be considered deprecated/obsolete.
+
+
 A note about this fork
 ==============
 
